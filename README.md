@@ -12,7 +12,7 @@ Solidity Soccer is an on-chain football (soccer) game built with Solidity, allow
 1. **Create a Team**: Call `createTeam()` with a team name and three player names.
 2. **Randomized Player Stats**: Each player gets attack and defense stats between 0-99.
 3. **Play Matches**: Use `playMatch(opponentAddress)` to challenge another team.
-4. **Win or Lose**: The team with the highest combined stats wins the match.
+4. **Win or Lose**: The team with the highest combined stats wins the match. 
 
 ## Smart Contract 📜 
 The game is powered by a Solidity smart contract that handles:
