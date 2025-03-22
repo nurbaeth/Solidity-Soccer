@@ -17,7 +17,7 @@ Solidity Soccer is an on-chain football (soccer) game built with Solidity, allow
 ## Smart Contract 📜 
 The game is powered by a Solidity smart contract that handles:
 - Team management
-- Randomized player stats
+- Randomized player stats 
 - Match results based on team strength
 
 ## Example Usage 🛠️
