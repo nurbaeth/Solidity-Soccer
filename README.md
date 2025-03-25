@@ -6,7 +6,7 @@ Solidity Soccer is an on-chain football (soccer) game built with Solidity, allow
 - **Team Creation**: Players can form their own teams with custom names.
 - **Player Attributes**: Each player has randomized attack and defense stats.
 - **Match Simulation**: Compete against other teams based on total team stats.
-- **Decentralized & Transparent**: The game logic is executed on-chain for fairness. 
+- **Decentralized & Transparent**: The game logic is executed on-chain for fairness.  
 
 ## How It Works 🏆
 1. **Create a Team**: Call `createTeam()` with a team name and three player names.
